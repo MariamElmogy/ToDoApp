@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android11</string>
+    <string name="task_added_successfully">Task Added Successfully</string>
+    <string name="ok">Ok</string>
 </resources>
